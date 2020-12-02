@@ -5,7 +5,7 @@ A single-scrolling website showcasing a visual and textual infographic on how to
 Single handedly built using HTML5 and CSS coding with ATOM 1.52.0.
 
 ## Design Process
-- Converted sketch thumbnails to Adobe Xd in order to forumulate wireframes and color styling
+- Converted sketch thumbnails to Adobe XD in order to forumulate wireframes and color styling
 - Utilized public stock images to create a larger visual composition on the website
 - Composed HTML5 and CSS coding derived from what was learned during the course in order to create a functioning website
 
